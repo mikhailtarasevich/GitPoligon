@@ -1,3 +1,3 @@
 Hello!
 Some new line
-Some line in GitPioligonFetch
+Changes in Git Poligon
