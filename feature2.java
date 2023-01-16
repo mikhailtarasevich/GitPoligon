@@ -1,2 +1,1 @@
-Hello!
-Some new line
+Feature 2 changes
