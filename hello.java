@@ -1,3 +1,3 @@
 Hello!
 Some new line
-Changes in Git Poligon
+Changes in Git Poligon!
